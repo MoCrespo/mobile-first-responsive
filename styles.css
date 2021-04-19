@@ -1,0 +1,25 @@
+/* variables */ 
+:root{
+    --primary: #ffc636;
+    --secondary: #0a0b5b;
+}
+
+/* reset */ 
+
+
+/* mobile styles */
+/* small tablet styles */
+@media screen and (min-width: 620px){
+
+} 
+
+/* large tablets & laptop styles */ 
+@media screen and (min-width: 960px) {
+    
+}
+
+/* desktop styles */ 
+
+@media screen and (min-width: 1200px) {
+    
+}

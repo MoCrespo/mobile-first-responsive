@@ -70,10 +70,6 @@ h4{
 }
 
 /* mobile styles */
-@media screen and (min-width: 380px) {
-    
-}
-
 
 .grid{
     display: grid;
@@ -118,6 +114,7 @@ label #cancel{
 #check:checked ~ label #cancel{
     right: 195px;
 }
+
 .site-nav{
     margin: 0 20px;
 }
@@ -155,9 +152,11 @@ label #cancel{
 }
 .welcome-img{
     grid-column: 6/9;
+    
 }
 .welcome-img img{
-    width: 200%;
+    padding-top: 50px;
+    width: 100%;
 }
 .welcome-text a {
     margin: 20px 0;
